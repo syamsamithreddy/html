@@ -1,0 +1,37 @@
+        .para{
+        border-width:5px;
+        border-color:purple;
+        padding:10px;
+        padding-left:20px;
+        padding-right:10px;
+        text-align: justify;
+        border-radius:15px;
+        background-color: black;
+        color:yellowgreen;
+        
+        }
+        .para-solid{
+            border-style:solid; 
+        }
+        .para-double{
+            border-style:double; 
+        }
+        .para-groove{
+            border-style:groove; 
+        }
+        .para-inset{
+            border-style:inset; 
+        }
+        .para-outset{
+            border-style:outset; 
+        }
+        .para-ridge{
+            border-style:ridge; 
+        }
+        .para-dashed{
+            border-style:dashed; 
+        }
+        .para-dotted{
+            border-style:dotted; 
+        }
+   
